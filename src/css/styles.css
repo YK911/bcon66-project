@@ -7,5 +7,6 @@
 
 /* COMPONENTS */
 @import url('./header.css');
+@import url('./section-dz.css';
 @import url('./hero.css');
 @import url('./vite-promo.css');
